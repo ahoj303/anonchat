@@ -1,0 +1,1 @@
+aiogram==3.3.0\nsqlalchemy==2.0.23\nasyncpg==0.29.0\npython-dotenv==1.0.0\npsycopg2-binary==2.9.9\naiosqlite==1.0.0\ntyping-extensions==4.8.0
